@@ -44,7 +44,7 @@ for (i = 0; i < n; i++)
 
 pa-=n;
 
-//cout<<"Original: ";
+cout<<"Original: ";
 for (i=0; i<n-1; i++ ,pa++){
    cout<<setw(3)<<*pa ;//<<endl;
   //cout<<pa<<endl;
@@ -63,7 +63,7 @@ for (i=0; i<n/2; i++)
 
 pa -= (n/2);
 
-//cout<<"Reversed: ";
+cout<<"Reversed: ";
 for (i=0; i<n-1; i++ ,pa++){
    cout<<setw(3)<<*pa ;//<<endl;
   //cout<<pa<<endl;
