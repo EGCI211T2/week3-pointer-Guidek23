@@ -22,7 +22,6 @@ input all the values in those new spaces.
 
 
 pa = new int [n];
-pb = new int [n];
 
 for (i = 0; i < n; i++)
 {
